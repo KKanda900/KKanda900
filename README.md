@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1> Hi 👋, I am Karun! </h1>
+<h2>A passionate Computer Scientist, Software Developer and Computer Nerd.</h2>
 
 <!--
 **KKanda900/KKanda900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
