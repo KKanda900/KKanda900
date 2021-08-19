@@ -1,5 +1,5 @@
-<h1> Hi 👋, I am Karun! </h1>
-<h2>A passionate Computer Scientist, Software Developer and Computer Nerd.</h2>
+<h1> I am Karun! 👋</h1>
+<h2>I am a passionate Computer Scientist 👨‍💻, Software Developer 🧑‍💻 and Computer Nerd 🤓.</h2>
 
 <div align="center">
   
