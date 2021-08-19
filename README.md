@@ -41,6 +41,15 @@
   <a href="https://www.rust-lang.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="40" height="40"/> 
   </a>
+  <a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="rust" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="rust" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="rust" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
