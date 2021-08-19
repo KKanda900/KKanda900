@@ -14,7 +14,7 @@
 - 💬 Ask me about **my passions**
 - 📫 How to reach me: **kkanda900@gmail.com**.
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I love sports, gaming, learning, ..., and of course coding!**
+- ⚡ Fun fact: **I love sports, gaming, learning, ..., and coding!**
 
 <h3 align="center">Languages and Tools:</h3>
 
