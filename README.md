@@ -47,8 +47,14 @@
   <a href="" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40"/> 
   </a>
-  <a href="" target="_blank"> 
-    <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.pngg" alt="c" width="40" height="40"/> 
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gc" width="40" height="40"/> 
   </a>
 </p>
 
