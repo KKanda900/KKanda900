@@ -42,13 +42,13 @@
     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="rust" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.pngg" alt="c" width="40" height="40"/> 
   </a>
 </p>
 
