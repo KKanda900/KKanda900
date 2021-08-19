@@ -1,7 +1,11 @@
 <h1> Hi 👋, I am Karun! </h1>
 <h2>A passionate Computer Scientist, Software Developer and Computer Nerd.</h2>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunkanda/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkanda900@gmail.com)
+</div>
 
 - 🔭 I’m currently working on **Software Developer skills**.
 - 🌱 I’m currently learning **Go**.
@@ -10,11 +14,6 @@
 - 📫 How to reach me: **kkanda900@gmail.com**.
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I love sports, gaming, learning, ..., and of course coding!**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
